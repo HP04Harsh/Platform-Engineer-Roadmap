@@ -12,7 +12,6 @@
 ## 📖 Table of Contents
 - [🛠️ Unified Technology Stack](#️-unified-technology-stack)
 - [🗺️ Strategic Roadmap & Learning Path](#️-strategic-roadmap--learning-path)
-- [📉 Engineering Maturity & Philosophy](#-engineering-maturity--credentials)
 - [📂 Repository Structure](#-repository-structure)
 
 ---
@@ -46,12 +45,6 @@ This roadmap outlines the phased approach to mastering cloud-native architecture
 | `06` | **Architecture** | Scalability & System Design | Multi-region HA/DR Technical Documentation |
 
 ---
-
-## 📉 Engineering Maturity & Credentials
-
-*   **Foundational Experience:** 2 Years Azure Cloud Migrations & IT Ops.
-*   **Academic:** Master of Computer Applications (MCA) - *In Progress*.
-*   **Location Strategy:** Target Tier-1 Tech Hubs (Bangalore, Pune, Hyderabad).
 
 ### 🧠 Core Philosophy
 > "If it is done twice, it must be **automated**; if it is automated, it must be **documented**."
