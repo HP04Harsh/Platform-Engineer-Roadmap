@@ -47,12 +47,6 @@ This roadmap outlines the phased approach to mastering cloud-native architecture
 
 ---
 
-## 📉 Engineering Maturity & Credentials
-
-*   **Foundational Experience:** 2 Years Azure Cloud Migrations & IT Ops.
-*   **Academic:** Master of Computer Applications (MCA) - *In Progress*.
-*   **Location Strategy:** Target Tier-1 Tech Hubs (Bangalore, Pune, Hyderabad).
-
 ### 🧠 Core Philosophy
 > "If it is done twice, it must be **automated**; if it is automated, it must be **documented**."
 
