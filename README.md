@@ -12,7 +12,6 @@
 ## 📖 Table of Contents
 - [🛠️ Unified Technology Stack](#️-unified-technology-stack)
 - [🗺️ Strategic Roadmap & Learning Path](#️-strategic-roadmap--learning-path)
-- [📉 Engineering Maturity & Philosophy](#-engineering-maturity--credentials)
 - [📂 Repository Structure](#-repository-structure)
 
 ---
